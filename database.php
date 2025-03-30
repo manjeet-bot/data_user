@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root"; // Agar hosting pe ho to change karo
-$password = ""; // Agar hosting pe ho to change karo
-$dbname = "employees";
+$servername = "dpg-cvk2ghmuk2gs73a5gfv0-a";
+$username = "database_sj5u_user"; // Agar hosting pe ho to change karo
+$password = "EefL6ExPork5PRiqqhKjQ1Qiu4E0cYkq";// Agar hosting pe ho to change karo
+$dbname = "database_sj5u";
 
 // Database Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
